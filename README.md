@@ -1,2 +1,2 @@
 # rsschool-cv
-https://psudakou.github.io/rsschool-cv/index.html
+https://psudakou.github.io/rsschool-cv/
